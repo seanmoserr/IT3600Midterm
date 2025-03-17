@@ -12,4 +12,4 @@ Although a usability critique of microwaves in general could be levied, the focu
 ### Proposed Solution: 
 
 
-![Bad Microwave UX]([IT3600Midterm/microwave.gif] "Bad Microwave UX")
+![Bad Microwave UX](microwave.gif)
