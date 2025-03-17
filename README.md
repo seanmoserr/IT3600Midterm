@@ -10,6 +10,13 @@ A common problem identified in real-life examples is the user experience of work
 
 Although a usability critique of microwaves in general could be levied, the focus is on the specific interface pictured above. This interface does not feature an actual door to open and close the microwave door, instead opting for an unlabeled push button. This setup is generally unintuitive, but poses difficulty to people with disabilities who struggle with a pushing motion. Including a push button to open the door, in conjunction with an easy to use door, would make just this aspect of beginning the process painless for the user in the beginning. Additionally, a major issue lies in the dial / knob based configuration of cook times. Although it looks novel, that is likely for good reason. Directions for microwaving different items is often listed in explicit terms, meaning giving users a way to directly specify that time without needing to scroll by every time below their desired time requires additional effort from the user. Additionally, long cook times mean the user is forced to manually scroll the dial in an effort to reach their cook time, despite the fact there are also numbers of large, random quantities on the user interface, adding to the confusion of the setup. Allowing the dial to be pushed in and out also adds to the complexity of this simple task, as users now are left wondering if pushing the dial in or out is required to achieve some end goal (like starting the microwave, opening the door, etc). 
 
+###### Key Parameters: 
+- Learnability: The model is not easy or intuitive to learn. Accomplishing even the most basic task is complicated and difficult to understand the process.
+- Efficiency: The model is not efficient in permitting users to effectively accomplish their task. From setting a cook time to actually initating the cooking process, this user interface doesn't facilitate an easy experience for its end users in accomplishing their goals.
+- Memorability: As shown in the gif, this interface is memorable, but for the wrong reasons. It's overly complicated interface ensures users will opt to interact with any other microwave interface but this one.
+- Errors: The interface doesn't give information to its users about what is occuring at each user entry. This leaves its users, as shown in the video, pushing randomly on the interface an in effort to get the machien running.
+- Satisfaction: The marginal benefit of the physical dialing the temperature is likely short lived, as users will quickly find the extra effort spent dialing the knob to be yet another obstacle in their ease of use for this user interface. 
+
 
 ### Proposed Solution: 
 
