@@ -12,4 +12,4 @@ Although a usability critique of microwaves in general could be levied, the focu
 ### Proposed Solution: 
 
 
-![Bad Microwave UX]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://usabilitygeek.com/wp-content/uploads/2020/06/06-microwave.gif) "Bad Microwave UX")
+![Bad Microwave UX]([./microwave.gif] "Bad Microwave UX")
