@@ -1,4 +1,5 @@
-# IT3600Midterm
+# IT3600 Midterm Project
+## Sean Moser
 
 ### Description of UX Problem:
 A common problem identified in real-life examples is the user experience of working with microwaves and air fryers. These devices often have unnecessarily complicated user interfaces, leading to frustration of working with the various settings and buttons, only to receive limited feedback from the interface on the status of your task. As shown below, we see there is a pushable knob that retracts in and out to adjust the cook time of the process. After pushing the knob in, pressing start does not start the cycle. Buttons also exist with different, unlabeled values on the main interface. A clock button exists, as do two “P” and “M” buttons with an unclear purpose after interfacing with the display. The actual process of placing your object in the microwave, setting your desired cook time, and beginning the process is unnecessarily complicated and unintuitive. 
